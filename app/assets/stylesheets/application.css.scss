@@ -7,6 +7,10 @@ body {
   font-family: monospace;
 }
 
+p {
+  font-size: 1em;
+}
+
 h1 {
   font-size: 3em;
   text-align: left;
@@ -83,7 +87,7 @@ h3 {
   padding: 40px;
   border-radius: 25px;
   width: 70%;
-  margin-left: 12%;
+  margin: auto;
   box-sizing: content-box;
 }
 
@@ -97,13 +101,13 @@ h3 {
 
 
 .sm {
-  font-size: 30px;
+  font-size: 3em;
 }
 
 a.fa {
   padding: 20px;
-  font-size: 50px;
-  width: 50px;
+  font-size: 40px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
