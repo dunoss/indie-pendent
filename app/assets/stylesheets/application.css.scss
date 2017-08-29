@@ -29,23 +29,32 @@ h3 {
   background-color: #f7f336;
 }
 
+// .castpic {
+//   width: 60%;
+// }
+
 .biocard {
   box-sizing: content-box;
   background-color: #feeb47;
   padding: 40px;
-  display: flex;
+  // display: flex;
   border-radius: 25px;
   width: 70%;
   margin-left: 12%;
 }
 
 .bio {
-  width: 40%;
-  margin-left: 10%;
+  // width: 40%;
+  margin-left: 5%;
   font-size: 20px;
   background-color: #feeb47;
   font-family: monospace;
   text-align: left;
+}
+
+.pic {
+  width: 90%;
+
 }
 
 // .one {
@@ -69,24 +78,23 @@ h3 {
   height:100%;
 }
 
-
-
-
-
 .aboutcard {
   background-color: #feeb47;
   padding: 40px;
   border-radius: 25px;
   width: 70%;
   margin-left: 12%;
+  box-sizing: content-box;
 }
 
 .about {
+  box-sizing: content-box;
   width: 100%;
   text-align: left;
   font-size: 20px;
   display: inline-block;
 }
+
 
 .sm {
   font-size: 30px;
