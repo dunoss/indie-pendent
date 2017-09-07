@@ -7,9 +7,11 @@ body {
   font-family: monospace;
 }
 
+
 p {
   font-size: 1em;
 }
+
 
 h1 {
   font-size: 3em;
@@ -23,6 +25,10 @@ h2 {
 
 h3 {
   font-size: 2em;
+}
+
+h4 {
+  font-size: 3em;
 }
 
 .logo {
@@ -130,4 +136,24 @@ a.fa {
 .fa-twitter {
   background-color: #329cc3;
   color: white;
+}
+
+.contact {
+background-color: #feeb47;
+width: 40%;
+margin: auto;
+padding: 40px;
+border-radius: 25px;
+font-size: 2em;
+}
+
+.hidden {
+  display: none;
+}
+
+.con {
+  width: 550px;
+  height: 450px;
+  margin: auto;
+  position: relative;
 }
