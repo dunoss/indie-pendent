@@ -151,9 +151,18 @@ font-size: 2em;
   display: none;
 }
 
-.con {
-  width: 550px;
-  height: 450px;
-  margin: auto;
-  position: relative;
+
+
+.button {
+  background-color: #feeb47;
+  border-radius: 5px;
+  color: rebeccapurple;
+  padding: .5em;
+  text-decoration: none;
+  font-size: 2em;
+}
+
+.button:focus,
+.button:hover {
+  background-color: yellow;
 }
